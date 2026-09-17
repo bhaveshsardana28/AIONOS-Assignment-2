@@ -48,7 +48,7 @@ graph TD
     E -->|Escalate| H[Escalate to Team]
     F --> I[Create Ticket if Needed]
     G --> I
-    H --> I
+    H --> I["Knowledge Base JSON"]
     I --> J[Audit Log]
     I --> K[Response with Source]
 ```
