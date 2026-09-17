@@ -64,7 +64,7 @@ graph TD
     B --> F[Ticket Generator]
     B --> G[Audit Logger]
     D --> H[Policy Retriever]
-    H --> I[Knowledge Base (JSON)]
+    H --> I[Knowledge Base JSON]
 ```
 
 ## Tech Stack
